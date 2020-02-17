@@ -1,0 +1,29 @@
+{
+  "name": "vue_nodejs_mysql",
+  "version": "0.0.0",
+  "description": "test project for Vue, NodeJS, Mysql",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sejoonkim/vue_nodejs_mysql.git"
+  },
+  "keywords": [
+    "vue_nodejs_mysql"
+  ],
+  "author": "sejoonkim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sejoonkim/vue_nodejs_mysql/issues"
+  },
+  "homepage": "https://github.com/sejoonkim/vue_nodejs_mysql#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^3.0.1",
+    "express": "^4.17.1",
+    "iconv-lite": "^0.5.1",
+    "mysql": "^2.18.1"
+  }
+}
